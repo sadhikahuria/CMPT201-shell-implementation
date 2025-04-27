@@ -1,0 +1,5 @@
+if(EXISTS "/home/cmpt201/units/03-memory/CMPT201-shell-implementation/build/shell_test[1]_tests.cmake")
+  include("/home/cmpt201/units/03-memory/CMPT201-shell-implementation/build/shell_test[1]_tests.cmake")
+else()
+  add_test(shell_test_NOT_BUILT shell_test_NOT_BUILT)
+endif()

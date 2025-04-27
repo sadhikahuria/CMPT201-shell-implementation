@@ -1,0 +1,1 @@
+/usr/bin/clang -fsanitize=address -fsanitize=undefined CMakeFiles/shell.dir/src/main.c.o CMakeFiles/shell.dir/src/shell.c.o -o shell 

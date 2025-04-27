@@ -1,0 +1,1 @@
+/usr/bin/clang++ CMakeFiles/shell_test.dir/gtest/shell_test.cpp.o -o shell_test  lib/libgtest_main.a lib/libgtest.a 
